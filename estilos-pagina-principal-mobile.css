@@ -1,0 +1,56 @@
+
+@media (max-width: 768px){
+
+  main nav .menu{
+    width:100%;
+  }
+
+  main nav .menu li{
+    display: block;
+  }
+
+  .cancha {
+    margin-top: 30px;
+    width: 100%;
+    display: block;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+
+main .logo img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .footer-general li{
+  display: block;
+  margin-top: 20px;
+  }
+
+  main .banner{
+      width: 100%;
+  }
+  main .texto{
+    display: none;
+  }
+  main .reservar{
+    top: 200px;
+    font-size: 26px;
+    margin-left: 20px;
+  }
+  main .boton{
+    top:260px;
+    margin-left: 20px;
+  }
+  .cancha p, .cancha h2{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .cancha{
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+
+}
